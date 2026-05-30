@@ -1,6 +1,6 @@
 # Library Management System
 
-A console-based Library Management System built with Java and MySQL as the final year BTech project.
+A console-based Library Management System built with Java and MySQL for understand OOPs concept and implementation in project.
 
 ## Features
 - Add, view, and search books

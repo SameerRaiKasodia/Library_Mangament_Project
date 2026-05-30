@@ -40,4 +40,4 @@ A console-based Library Management System built with Java and MySQL as the final
 5. Run LibraryApp.java
 
 ## Author
-Sameer Kumar
+Sameer Rai Kasodia
